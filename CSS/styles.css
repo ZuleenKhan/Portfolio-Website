@@ -1,0 +1,188 @@
+body{
+  background-color: #628E90;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather' sans-serif;
+}
+
+h1{
+  font-size:45px;
+font-family: 'Sacramento', cursive;
+ color: #000000; /*66BFBF*/
+ line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  color:#3C2317;
+  font-weight: normal;
+}
+h3{
+  color:   #3C2317;   /* #11999E;*/
+}
+a{
+  color:#66BFBF;
+}
+p{
+  color: #182747;
+
+}
+.skill-row {
+  width:50%;
+  margin : 100px auto 100px auto;
+
+  text-align: left;
+}
+.skills{
+  padding-bottom: 30px;
+}
+.comp{
+  width:25%;
+  float : left;
+  margin-right : 30px;
+ bottom : 45%;
+   margin-bottom: 20px;
+}
+.Algo{
+  height:10%;
+  width:22%;
+  float : right;
+  margin-right : 30px;
+  margin-top: 20px;
+}
+
+.top{
+  position: relative;
+  top:60px;
+  padding-top: 50px;
+  padding-bottom:50px;
+  margin : 0 auto;
+
+}
+
+.middle-container{
+
+    position:relative;
+    padding-top:40px;
+    padding-bottom: 20px;
+    top:90px;
+
+}
+.contact-me{
+  position:relative;
+  top:80px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+
+}
+.bottom-container{
+  position:relative;
+  padding-top:20px;
+  padding-bottom:20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+   bottom:130px;
+}
+
+.first{
+   position:absolute;
+   bottom : 580px;
+   right:230px;
+}
+
+.second {
+  position:absolute;
+  bottom : 500px;
+  left : 290px;
+}
+
+.third{
+
+  position: relative;
+  top:30px;
+  padding-bottom: 20px;
+}
+
+
+
+/*
+
+<div>
+
+ <div class = "blue">
+
+</div>
+
+<div class="yellow">
+
+</div>
+<div class = "red">
+
+
+</div>
+.blue{
+  height:150px;
+  width:150px;
+  background-color: blue;
+position:absolute;
+left:20px;
+}
+.yellow{
+  height:150px;
+  width:150px;
+    background-color: yellow;
+position:absolute;
+left:170px;
+ bottom: 215px;
+}
+.red{
+  height:150px;
+  width:150px;
+    background-color: red;
+position:absolute;
+  left: 320px;
+  top:440px;
+}
+
+.top{
+
+  height: 200px;
+  width: 200px;
+  background-color: #A7D2CB;
+  border:solid;
+  border-width: 30;
+  border-color: black;
+  margin-left:20;
+  padding : 20px;
+
+}
+.top :hover{
+
+    background-color: green;
+}
+
+.middle{
+     height: 200px;
+     width: 200px;
+     border:solid;
+     border-width: 20px;
+     background-color: blue;
+     margin-left:245px;
+}
+.middle :hover{
+    color : black;
+}
+.bottom{
+  height: 200px;
+  width: 200px;
+  border:solid;
+  border-width: 10px;
+  background-color: red;
+  margin-left:485px;
+}
+.bottom :hover {
+   background-color: grey;
+}
+*/
